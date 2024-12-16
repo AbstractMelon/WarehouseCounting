@@ -1,0 +1,2 @@
+# WarehouseCounting
+Warehouse counting bot!
